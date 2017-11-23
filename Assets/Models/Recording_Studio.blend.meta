@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 19c446f53bf402c4abc6cd5d467e49ca
+timeCreated: 1511446867
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Circle
+    100002: Circle_001
+    100004: Circle_002
+    100006: Circle_003
+    100008: Circle_004
+    100010: Circle_005
+    100012: Circle_006
+    100014: Circle_007
+    100016: CM-1000_Computer
+    100018: CM-1000_Monitor
+    100020: Cube
+    100022: Cube_001
+    100024: Cube_002
+    100026: Cube_002_MeshPart0
+    100028: Cube_002_MeshPart1
+    100030: Cube_003
+    100032: Cube_004
+    100034: Cube_005
+    100036: Cube_MeshPart0
+    100038: Cube_MeshPart1
+    100040: Plane
+    100042: Plane_001
+    100044: Plane_002
+    100046: Plane_003
+    100048: Plane_004
+    100050: Plane_005
+    100052: Plane_006
+    100054: Plane_007
+    100056: Plane_008
+    100058: //RootNode
+    400000: Circle
+    400002: Circle_001
+    400004: Circle_002
+    400006: Circle_003
+    400008: Circle_004
+    400010: Circle_005
+    400012: Circle_006
+    400014: Circle_007
+    400016: CM-1000_Computer
+    400018: CM-1000_Monitor
+    400020: Cube
+    400022: Cube_001
+    400024: Cube_002
+    400026: Cube_002_MeshPart0
+    400028: Cube_002_MeshPart1
+    400030: Cube_003
+    400032: Cube_004
+    400034: Cube_005
+    400036: Cube_MeshPart0
+    400038: Cube_MeshPart1
+    400040: Plane
+    400042: Plane_001
+    400044: Plane_002
+    400046: Plane_003
+    400048: Plane_004
+    400050: Plane_005
+    400052: Plane_006
+    400054: Plane_007
+    400056: Plane_008
+    400058: //RootNode
+    2300000: Circle
+    2300002: Circle_001
+    2300004: Circle_002
+    2300006: Circle_003
+    2300008: Circle_004
+    2300010: Circle_005
+    2300012: Circle_006
+    2300014: Circle_007
+    2300016: CM-1000_Computer
+    2300018: CM-1000_Monitor
+    2300020: Cube_001
+    2300022: Cube_002_MeshPart0
+    2300024: Cube_002_MeshPart1
+    2300026: Cube_003
+    2300028: Cube_004
+    2300030: Cube_005
+    2300032: Cube_MeshPart0
+    2300034: Cube_MeshPart1
+    2300036: Plane
+    2300038: Plane_001
+    2300040: Plane_002
+    2300042: Plane_003
+    2300044: Plane_004
+    2300046: Plane_005
+    2300048: Plane_006
+    2300050: Plane_007
+    2300052: Plane_008
+    3300000: Circle
+    3300002: Circle_001
+    3300004: Circle_002
+    3300006: Circle_003
+    3300008: Circle_004
+    3300010: Circle_005
+    3300012: Circle_006
+    3300014: Circle_007
+    3300016: CM-1000_Computer
+    3300018: CM-1000_Monitor
+    3300020: Cube_001
+    3300022: Cube_002_MeshPart0
+    3300024: Cube_002_MeshPart1
+    3300026: Cube_003
+    3300028: Cube_004
+    3300030: Cube_005
+    3300032: Cube_MeshPart0
+    3300034: Cube_MeshPart1
+    3300036: Plane
+    3300038: Plane_001
+    3300040: Plane_002
+    3300042: Plane_003
+    3300044: Plane_004
+    3300046: Plane_005
+    3300048: Plane_006
+    3300050: Plane_007
+    3300052: Plane_008
+    4300000: Cube_005
+    4300002: Cube_002_MeshPart0
+    4300004: Cube_002_MeshPart1
+    4300006: Cube_001
+    4300008: Circle_007
+    4300010: Circle_006
+    4300012: Circle_005
+    4300014: Circle_004
+    4300016: Circle_003
+    4300018: Circle_002
+    4300020: Circle_001
+    4300022: Circle
+    4300024: Cube_MeshPart0
+    4300026: Cube_MeshPart1
+    4300028: Plane_008
+    4300030: Plane_007
+    4300032: Plane_006
+    4300034: Plane_005
+    4300036: Plane_004
+    4300038: Plane_003
+    4300040: Plane_002
+    4300042: Plane_001
+    4300044: Plane
+    4300046: CM-1000_Computer
+    4300048: CM-1000_Monitor
+    4300050: Cube_003
+    4300052: Cube_004
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 3a56870e86aad6540ac5cdd25adcc4ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Darkness
+    second: {fileID: 2100000, guid: 60a946c8c8644974e965a8b151ee3ac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floppy_Disk_Drive
+    second: {fileID: 2100000, guid: 3eaf911873599714ca141853993159a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keys
+    second: {fileID: 2100000, guid: 81818183b134e0544afa7b8db597b57e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: ff4e128e4e7bb8b47bedb8701a8238c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 48f43947792f95a488da52753d459c7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 5c57e818e55a1fa48b254a7a99a39b42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: d33c04d7ed759eb428ac64d2de3175be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: 80e6f120298ca8546baa5aeac49bf645, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006
+    second: {fileID: 2100000, guid: 41cf320f1510c03458a72af230c347ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: bee9b3dbe4ded064c876f01f36564bad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008
+    second: {fileID: 2100000, guid: faa2210f1141a884f8c1ddb38912fa94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009
+    second: {fileID: 2100000, guid: 88ef5cc39d8632c49a9467b5fa7625d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_010
+    second: {fileID: 2100000, guid: f2d1b1d1c7ecec2408626fe0c14f4e30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_011
+    second: {fileID: 2100000, guid: 1b9ba79c35f75004ab4e0d7241943d50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_012
+    second: {fileID: 2100000, guid: c96e092adb8694041bf41bcc51fca8fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_013
+    second: {fileID: 2100000, guid: 4197340b23365854da08f092a2e46ffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_014
+    second: {fileID: 2100000, guid: 9bbe45f5eb1def74fbd51df489313502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_015
+    second: {fileID: 2100000, guid: b418ec61370f72d4cb2e1d9d0a7f4337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_016
+    second: {fileID: 2100000, guid: eb6ad42aaf27a524a9f33e19e6a0533a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_017
+    second: {fileID: 2100000, guid: 12f7cd3f39ad4964c98ef8c19df6047c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_018
+    second: {fileID: 2100000, guid: bdd94d6bae2dc3c4da82ab7e7285be76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_019
+    second: {fileID: 2100000, guid: d035f056ac73ded42b532c16b78df103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_020
+    second: {fileID: 2100000, guid: fb2383ddb44c5fe4eab9174010479892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screen
+    second: {fileID: 2100000, guid: 654fefec9e1e49e4ebb47ada43e835c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Switch
+    second: {fileID: 2100000, guid: 6062af55a6e5c0642b164a285fc386a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Switch_Cover
+    second: {fileID: 2100000, guid: 843efbdf65a203b43a75c01a2493b09f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: dc13d25f337202f4a943b4143f8ef0ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: e43cefb432c616d4a82ca06480d48fc3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
