@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: b28133414d917844cade5a7d00363c0c
+timeCreated: 1511516796
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ChamferBox369
+    100002: ChamferCyl001
+    100004: Cylinder012
+    100006: Cylinder015
+    100008: default
+    100010: Line120
+    100012: Line121
+    100014: Object019
+    100016: Object020
+    100018: OilTank001
+    100020: //RootNode
+    100022: Rectangle035
+    100024: Rectangle040
+    100026: Rectangle041
+    100028: Rectangle046
+    100030: Rectangle047
+    100032: Rectangle048
+    100034: Sphere007
+    100036: Sphere008
+    400000: ChamferBox369
+    400002: ChamferCyl001
+    400004: Cylinder012
+    400006: Cylinder015
+    400008: default
+    400010: Line120
+    400012: Line121
+    400014: Object019
+    400016: Object020
+    400018: OilTank001
+    400020: //RootNode
+    400022: Rectangle035
+    400024: Rectangle040
+    400026: Rectangle041
+    400028: Rectangle046
+    400030: Rectangle047
+    400032: Rectangle048
+    400034: Sphere007
+    400036: Sphere008
+    2300000: ChamferBox369
+    2300002: ChamferCyl001
+    2300004: Cylinder012
+    2300006: Cylinder015
+    2300008: default
+    2300010: Line120
+    2300012: Line121
+    2300014: Object019
+    2300016: Object020
+    2300018: OilTank001
+    2300020: Rectangle035
+    2300022: Rectangle040
+    2300024: Rectangle041
+    2300026: Rectangle046
+    2300028: Rectangle047
+    2300030: Rectangle048
+    2300032: Sphere007
+    2300034: Sphere008
+    3300000: ChamferBox369
+    3300002: ChamferCyl001
+    3300004: Cylinder012
+    3300006: Cylinder015
+    3300008: default
+    3300010: Line120
+    3300012: Line121
+    3300014: Object019
+    3300016: Object020
+    3300018: OilTank001
+    3300020: Rectangle035
+    3300022: Rectangle040
+    3300024: Rectangle041
+    3300026: Rectangle046
+    3300028: Rectangle047
+    3300030: Rectangle048
+    3300032: Sphere007
+    3300034: Sphere008
+    4300000: Object019
+    4300002: Object020
+    4300004: Rectangle035
+    4300006: Rectangle040
+    4300008: Rectangle041
+    4300010: Line120
+    4300012: Rectangle046
+    4300014: Rectangle047
+    4300016: Line121
+    4300018: Rectangle048
+    4300020: Sphere007
+    4300022: Sphere008
+    4300024: default
+    4300026: ChamferCyl001
+    4300028: OilTank001
+    4300030: Cylinder015
+    4300032: ChamferBox369
+    4300034: Cylinder012
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #44'
+    second: {fileID: 2100000, guid: ba335f67a625a2b44b7b33ca001cd527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #45'
+    second: {fileID: 2100000, guid: 2059703669de0af48b04ee9977b11695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #45ff'
+    second: {fileID: 2100000, guid: 5550870de91cf904a93f09b9d53b3aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #45ffn'
+    second: {fileID: 2100000, guid: 3116fb21481d6614aadd708eeb867d98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #70'
+    second: {fileID: 2100000, guid: bffc63245dd7b8f4d8a84cf9b70ebde9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Matvverial #05bb'
+    second: {fileID: 2100000, guid: 9a7dbb90520cece41b1f6199d274d2b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soft
+    second: {fileID: 2100000, guid: 58fa4d9db19092744a6e8c03c5ae5bb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_000255234
+    second: {fileID: 2100000, guid: e866af31d064a964e8dff7a14d57f96a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
